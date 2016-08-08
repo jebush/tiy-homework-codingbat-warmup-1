@@ -274,7 +274,7 @@ public class Main {
         System.out.println();
         System.out.println("every Nth thing");
 
-        //This calls the 
+        //This calls the
         System.out.println(newDay.everyNth("thispank", 2));
         System.out.println(newDay.everyNth("afasdggdsddd", 4));
         System.out.println(newDay.everyNth("akdkdkdjfiwiwiejfkkdsjfkjasgfg", 3));
